@@ -51,7 +51,8 @@ rvg-gourmet-delivery/
 
 ### 1. Clone the Repository
 ```bash
-git clone [https://github.com/YOUR_USERNAME/rvg-gourmet-delivery.git](https://github.com/YOUR_USERNAME/rvg-gourmet-delivery.git)
+git clone [https://github.com/rishi-security-labs/rvg-gourmet-delivery.git]
+(https://github.com/rishi-security-labs/rvg-gourmet-delivery.git)
 cd rvg-gourmet-delivery
 ```
 
